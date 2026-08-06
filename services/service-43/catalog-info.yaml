@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: monorepo-service-43
+  description: "Monorepo service 43 — scale test (TC-037)"
+  tags:
+    - monorepo
+    - service-43
+spec:
+  type: library
+  lifecycle: deprecated
+  owner: user:default/test-user
