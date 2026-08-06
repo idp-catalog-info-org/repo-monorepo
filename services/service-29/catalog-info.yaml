@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: monorepo-service-29
+  description: "Monorepo service 29 — scale test (TC-037)"
+  tags:
+    - monorepo
+    - service-29
+spec:
+  type: tool
+  lifecycle: production
+  owner: user:default/test-user
